@@ -21,3 +21,24 @@
 # After sign up
 * User's data gets added on the mailchimp's server
 * The data can be used to send monthly emails
+
+# Screenshots
+* main page
+<img width="551" alt="Main page(1)" src="https://github.com/akashnegetive/NEWSLETTER_SIGUNUP/assets/78427838/0ed382cd-c0bb-4a57-84db-02447bae8682">
+
+* SignUp
+<img width="438" alt="signup(2)" src="https://github.com/akashnegetive/NEWSLETTER_SIGUNUP/assets/78427838/14f3159b-b207-48f4-85c3-df123866a210">
+
+* Sucess login
+<img width="512" alt="sucess(3)" src="https://github.com/akashnegetive/NEWSLETTER_SIGUNUP/assets/78427838/1dc9bf0d-149e-43a9-a432-25db1458675b">
+
+* Fail to login
+<img width="465" alt="failure(4)" src="https://github.com/akashnegetive/NEWSLETTER_SIGUNUP/assets/78427838/05189723-525c-42dc-b886-e0470195f7f1">
+
+* MailChimps Dashboard
+<img width="760" alt="dashboard(5)" src="https://github.com/akashnegetive/NEWSLETTER_SIGUNUP/assets/78427838/fc4e59a9-6694-4359-b5e4-129710799802">
+
+
+
+
+
